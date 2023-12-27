@@ -20,8 +20,8 @@ In command prompt, initiate python followed by program name and text file name t
 ## PROGRAM:
 ```
 '''
-Developed by RAMESH RENUKA
-Registered number: 212223240136
+Developed by MOHAMED FAROOK S
+Registered number: 23014058
 '''
 import sys
 file= open(sys.argv[1])
